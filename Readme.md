@@ -4,7 +4,7 @@
 
 ## Contents
 - [Calendar](#calendar) -> Nepali calendar and date conversion services.
-- [Stock Market](#stock-market) -> Nepal Stock Exchange and other stock market related services.
+- [Stock Market](#stock-market-and-money) -> Nepal Stock Exchange and other stock market related services.
 - [News](#news) -> 100s of news portals in Nepal.
 - [Payment Processors](#payment-processors) -> e-wallets and payment processors.
 - [E-commerce](#e-commerce) -> online shopping platforms.
@@ -28,7 +28,11 @@
 - [Nepali Paisa](https://www.nepalipaisa.com/)
 - [Mero Share](https://www.meroshare.cdsc.com.np/)
 - [Hamro Bank Rates](https://play.google.com/store/apps/details?id=com.hamropatro.bankrates)
+
+### Accounting
 - [Karobar-Nepali Digital Khata](https://play.google.com/store/apps/details?id=com.bytecaretech.merokarobar)
+- [Lipika](https://lipikasoftware.com/)
+- [Swastik](https://hitechnepal.com.np/swastik-business-accounting-software.php)
 
 ### News
 - [Online Khabar](https://www.onlinekhabar.com/)
@@ -62,6 +66,20 @@
 ### Map
 - [Nepal Map](https://nepalmap.org/)
 - [Galli Maps](https://gallimaps.com/)
+
+### Driving License
+- [Nepali Driving License App](https://play.google.com/store/apps/details?id=drivingexamnepal.app)
+- [Color Blind Test](https://play.google.com/store/apps/details?id=com.thulotechnology.colorblind)
+
+### Audiobook
+- [Nepali Audiobook](https://nepaliaudiobook.com)
+- [Audio Ghar](https://play.google.com/store/apps/details?id=com.audioghar.app)
+- [BookSuna:Audio Books](https://play.google.com/store/apps/details?id=com.ngp.booksuna)
+
+
+
+### Keyboard
+- 
 
 ## Contributing
 This repository is open for contributions. Add products you know of in the respective category. If you want to add a new category, do it.
