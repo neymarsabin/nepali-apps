@@ -77,10 +77,6 @@
 - [BookSuna:Audio Books](https://play.google.com/store/apps/details?id=com.ngp.booksuna)
 
 
-
-### Keyboard
-- 
-
 ## Contributing
 This repository is open for contributions. Add products you know of in the respective category. If you want to add a new category, do it.
 
