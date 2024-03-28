@@ -58,3 +58,7 @@ This repository is open for contributions. Add products you know of in the respe
 
 ## License
 Fuck License!! Do anything you like with this repository.
+
+## Socials
+- Follow [r/programmersNepal](https://www.reddit.com/r/ProgrammersNepal/) for useful blogs/readmes.
+- I will be creating more accounts in telegram, slack etc for Nepali programmers.
