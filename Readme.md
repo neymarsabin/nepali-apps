@@ -1,6 +1,6 @@
-> This is a work in progress. Please feel free to contribute. Also, I will be building an API to serve the list in JSON.
+> Please feel free to contribute. Also, I will be building an API to serve the list in JSON.
 
-> Please only add products that are based in Nepal. Apps can be mobile, web, or desktop apps. 
+> Apps can be mobile, web, or desktop apps. They must be active.
 
 ## Contents
 - [Calendar](#calendar) -> Nepali calendar and date conversion services.
@@ -45,13 +45,13 @@
 - [Daraz](https://www.daraz.com.np/)
 - [Sasto Deal](https://www.sastodeal.com/)
 - [Mero Shopping](https://www.meroshopping.com/)
-- [Bhatbhateni Online](https://bhatbhatenionline.com/)
 - [Foodmandu](https://foodmandu.com/)
 - [NepBay](https://www.nepbay.com/)
 - [Mero Kirana](https://www.merokirana.com/)
 
 ### Map
 - [Nepal Map](https://nepalmap.org/)
+- [Galli Maps](https://gallimaps.com/)
 
 ## Contributing
 This repository is open for contributions. Add products you know of in the respective category. If you want to add a new category, do it.
