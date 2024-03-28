@@ -14,11 +14,20 @@
 - [Hamro Patro](https://www.hamropatro.com/)
 - [Nepali Patro](https://nepalipatro.com.np/)
 - [Nepali Calendar](https://nepalicalendar.rat32.com/)
+- [Ramro Patro](https://ramropatro.com/)
+- [Nepali Calendar](https://play.google.com/store/apps/details?id=np.com.nareshmdr.nepalicalendar)
+- [Sajilo Patro](https://play.google.com/store/apps/details?id=com.nayapatro)
+- [Saral Patro](https://play.google.com/store/apps/details?id=com.saralapps.saralpatro)
+- [Nepali Calendar](https://play.google.com/store/apps/details?id=np.com.joshisijan.nepali_calendar)
+- [Brihat Patro](https://play.google.com/store/apps/details?id=com.nepaliyogi.brihatpatro)
+- [Nepal Sambat](https://play.google.com/store/apps/details?id=com.spiralogics.nepalsambat)
+- [Hamro Calendar: Nepali Patro](https://play.google.com/store/apps/details?id=com.ts.hamrocalendar)
 
 ### Stock Market and Money
 - [Nepal Stock Exchange](https://www.nepalstock.com/)
 - [Nepali Paisa](https://www.nepalipaisa.com/)
 - [Mero Share](https://www.meroshare.cdsc.com.np/)
+- [Hamro Bank Rates](https://play.google.com/store/apps/details?id=com.hamropatro.bankrates)
 
 ### News
 - [Online Khabar](https://www.onlinekhabar.com/)
