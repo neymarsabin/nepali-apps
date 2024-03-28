@@ -28,6 +28,7 @@
 - [Nepali Paisa](https://www.nepalipaisa.com/)
 - [Mero Share](https://www.meroshare.cdsc.com.np/)
 - [Hamro Bank Rates](https://play.google.com/store/apps/details?id=com.hamropatro.bankrates)
+- [Karobar-Nepali Digital Khata](https://play.google.com/store/apps/details?id=com.bytecaretech.merokarobar)
 
 ### News
 - [Online Khabar](https://www.onlinekhabar.com/)
