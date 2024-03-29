@@ -9,6 +9,7 @@
 - [Payment Processors](#payment-processors) -> e-wallets and payment processors.
 - [E-commerce](#e-commerce) -> online shopping platforms.
 - [Map](#map) -> map apps and services.
+- [Games](#games) -> Games
 
 ### Calendar
 - [Hamro Patro](https://www.hamropatro.com/)
@@ -75,6 +76,10 @@
 - [Nepali Audiobook](https://nepaliaudiobook.com)
 - [Audio Ghar](https://play.google.com/store/apps/details?id=com.audioghar.app)
 - [BookSuna:Audio Books](https://play.google.com/store/apps/details?id=com.ngp.booksuna)
+
+### Games
+- [Driving School and Parking](https://play.google.com/store/apps/details?id=io.yarsa.games.nepaldrivinglicensetest&hl=en&gl=US)
+- [Ludo](https://play.google.com/store/apps/details?id=io.yarsa.games.ludo&hl=en&gl=US)
 
 
 ## Contributing
