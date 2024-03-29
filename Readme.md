@@ -9,6 +9,7 @@
 - [Payment Processors](#payment-processors) -> e-wallets and payment processors.
 - [E-commerce](#e-commerce) -> online shopping platforms.
 - [Map](#map) -> map apps and services.
+- [Games](#games) -> Games
 
 ### Calendar
 - [Hamro Patro](https://www.hamropatro.com/)
