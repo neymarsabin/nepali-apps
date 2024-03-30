@@ -57,6 +57,7 @@
 - [Ratopati](https://ratopati.com/)
 - [Nepal News](https://www.nepalnews.com/)
 - [Nepal Live](https://www.nepallive.com/)
+- [Routine of Nepal Banda](https://play.google.com/store/apps/details?id=com.ronb_app)
 
 ### Payment Processors
 - [eSewa](https://esewa.com.np/)
@@ -88,8 +89,53 @@
 - [BookSuna:Audio Books](https://play.google.com/store/apps/details?id=com.ngp.booksuna)
 
 ### Games
-- [Driving School and Parking](https://play.google.com/store/apps/details?id=io.yarsa.games.nepaldrivinglicensetest&hl=en&gl=US)
-- [Ludo](https://play.google.com/store/apps/details?id=io.yarsa.games.ludo&hl=en&gl=US)
+- [Driving School and Parking](https://play.google.com/store/apps/details?id=io.yarsa.games.nepaldrivinglicensetest)
+- [Ludo](https://play.google.com/store/apps/details?id=io.yarsa.games.ludo)
+- [Crazy Circle Run](https://m.apkpure.com/crazy-circle-run/com.karuwaapps.crazycircle)
+
+### Jobs and Internships
+- [Internsathi](https://internsathi.com)
+- [Merojob](https://merojob.com/)
+
+### Astrology and Horoscope
+- [Yodha My Astrology Horoscope](https://play.google.com/store/apps/details?id=com.astroid.yodha.pro)
+- [Yodha My Daily Horoscope](https://play.google.com/store/apps/details?id=com.yodhaapp.dailyhoroscope)
+
+### Marriage and Dating
+- [Mooche](https://app.mooche.co/)
+
+### Keyboard
+- [Hamro Nepali Keyboard](https://play.google.com/store/apps/details?id=com.hamrokeyboard)
+
+### Government
+- [Nagarik App](https://play.google.com/store/apps/details?id=com.yajtech.nagarikapp)
+- [Nepal ePassport](https://play.google.com/store/apps/details?id=com.dop.passport)
+- [DoTM Nepal](https://play.google.com/store/apps/details?id=com.dotmnepal)
+- [Nepal Police](https://play.google.com/store/apps/details?id=com.pathway.nepalpolice)
+- [NEA Official](https://play.google.com/store/apps/details?id=com.nepalelectricityauthority.nea)
+- [NEA Charge](https://play.google.com/store/apps/details?id=com.wanbangauto.neapower)
+
+### Telecom and ISP
+- [Sajilo Recharge](https://play.google.com/store/apps/details?id=np.com.ishandongol.sajilorecharge)
+- [Recharge Scanner for NTC/Ncell](https://play.google.com/store/apps/details?id=np.com.rsubedi.ncellntcservices)
+- [Recharge Scanner: Ncell & NTC](https://play.google.com/store/apps/details?id=com.nepdroid.NtcNcellServiceRemover)
+- [BEST Recharge Card Scanner NTC](https://play.google.com/store/apps/details?id=com.susankya.ncellntcscan)
+- [Nepal Telecom](https://play.google.com/store/apps/details?id=shirantech.android.nepaltelecom)
+- [Ncell App: Recharge, Buy Packs](https://play.google.com/store/apps/details?id=com.mventus.ncell.activity)
+- [myWorldLink](https://play.google.com/store/apps/details?id=np.com.worldlink.worldlinkapp)
+- [Classic Tech](https://play.google.com/store/apps/details?id=com.classic.np.app)
+- [Dishhome](https://play.google.com/store/apps/details?id=com.shirantech.dishhome)
+- [CG Net](https://play.google.com/store/apps/details?id=np.com.cgnet.customerapp)
+
+### Nepali Learning
+- [Nepali Shabdakosh Dictionary](https://play.google.com/store/apps/details?id=com.nepalishabdakosh)
+- [प्रज्ञा नेपाली बृहत् शब्दकोश](https://play.google.com/store/apps/details?id=np.com.naya.sabdakosh)
+- [Hamro Nepali Dictionary](https://play.google.com/store/apps/details?id=com.hamropatro.dictionary)
+- [Kapi:Learn To Write Nepali](https://play.google.com/store/apps/details?id=com.susonsapkota.kapi)
+
+### College
+- [PU Assist](https://play.google.com/store/apps/details?id=com.thesaugat.puassist)
+- 
 
 ## Contributing
 This repository is open for contributions. Add products you know of in the respective category. If you want to add a new category, do it.
