@@ -20,6 +20,7 @@
 - [Telecom and ISP](#telecom-and-isp) -> Telecom and ISP Services
 - [Nepali Learning](#nepali-learning) -> Nepali Learning
 - [School and College](#school-and-college) -> Nepali School and College
+- [Travel and Delivery](#travel-and-delivery) -> Travel and Delivery
 
 ### Calendar
 - [Hamro Patro](https://www.hamropatro.com/)
@@ -141,6 +142,9 @@
 - [IOE Syllabus: Lecture, Notes](https://play.google.com/store/apps/details?id=np.mks.ioesyllabus)
 - [BCT Engineering Notes](https://bctengineeringnotes.blogspot.com/)
 
+### Travel and Delivery
+- [inDrive](https://play.google.com/store/apps/details?id=sinet.startup.inDriver)
+- [BuckBus](https://www.buckbus.com/)
 
 ## Contributing
 This repository is open for contributions. Add products you know of in the respective category. If you want to add a new category, do it.
