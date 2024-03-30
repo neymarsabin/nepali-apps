@@ -103,6 +103,9 @@
 
 ### Marriage and Dating
 - [Mooche](https://app.mooche.co/)
+- [BiheNepal](https://bihenepal.com/)
+- [Kurakani](https://kurakani.net/)
+- [Kynd - Nepali Dating App](https://www.kynddating.com/)
 
 ### Keyboard
 - [Hamro Nepali Keyboard](https://play.google.com/store/apps/details?id=com.hamrokeyboard)
@@ -135,6 +138,9 @@
 
 ### School and College
 - [PU Assist](https://play.google.com/store/apps/details?id=com.thesaugat.puassist)
+- [IOE Syllabus: Lecture, Notes](https://play.google.com/store/apps/details?id=np.mks.ioesyllabus)
+- [BCT Engineering Notes](https://bctengineeringnotes.blogspot.com/)
+
 
 ## Contributing
 This repository is open for contributions. Add products you know of in the respective category. If you want to add a new category, do it.
