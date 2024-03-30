@@ -14,7 +14,7 @@
 - [Games](#games) -> Games
 - [Jobs and Internships](#jobs-and-internships) -> Jobs and Internships
 - [Astrology and Horoscope](#astrology-and-horoscope) -> Nepali Astrology and Horoscope
-- [Marriage and Dating](#marrige-and-dating)  -> Marriage, Dating and Relationship
+- [Marriage and Dating](#marriage-and-dating)  -> Marriage, Dating and Relationship
 - [Keyboard](#keyboard) -> Nepali Typing/Unicode
 - [Government](#government) -> Nepali Govenment Services
 - [Telecom and ISP](#telecom-and-isp) -> Telecom and ISP Services
@@ -133,9 +133,8 @@
 - [Hamro Nepali Dictionary](https://play.google.com/store/apps/details?id=com.hamropatro.dictionary)
 - [Kapi:Learn To Write Nepali](https://play.google.com/store/apps/details?id=com.susonsapkota.kapi)
 
-### College
+### School and College
 - [PU Assist](https://play.google.com/store/apps/details?id=com.thesaugat.puassist)
-- 
 
 ## Contributing
 This repository is open for contributions. Add products you know of in the respective category. If you want to add a new category, do it.
