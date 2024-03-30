@@ -12,6 +12,14 @@
 - [Driving Licenses](#driving-license) -> Driving license examination related apps.
 - [Audiobook](#audiobook) -> Audiobook services.
 - [Games](#games) -> Games
+- [Jobs and Internships](#jobs-and-internships) -> Jobs and Internships
+- [Astrology and Horoscope](#astrology-and-horoscope) -> Nepali Astrology and Horoscope
+- [Marriage and Dating](#marrige-and-dating)  -> Marriage, Dating and Relationship
+- [Keyboard](#keyboard) -> Nepali Typing/Unicode
+- [Government](#government) -> Nepali Govenment Services
+- [Telecom and ISP](#telecom-and-isp) -> Telecom and ISP Services
+- [Nepali Learning](#nepali-learning) -> Nepali Learning
+- [School and College](#school-and-college) -> Nepali School and College
 
 ### Calendar
 - [Hamro Patro](https://www.hamropatro.com/)
