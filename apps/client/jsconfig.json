@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "nepali-apps/apps/client/*": ["./*"]
+    }
+  }
+}
