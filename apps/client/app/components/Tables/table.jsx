@@ -1,25 +1,38 @@
-import SearchInput from "../Input/searchInput"
-
-const people = [
-  { name: 'Lindsay Walton', title: 'Front-end Developer', email: 'lindsay.walton@example.com', role: 'Member' },
+const apps = [
+  { name: 'Hamro Patro', company: 'Hamro Patro Company', category:'Cat1' },
+  { name: 'Hamro Patro', company: 'Hamro Patro Company', category:'Cat1' },
+  { name: 'Hamro Patro', company: 'Hamro Patro Company', category:'Cat1' },
+  { name: 'Hamro Patro', company: 'Hamro Patro Company', category:'Cat1' },
   // More people...
 ]
 
 export default function CompanyTable() {
   return (
     <div className="bg-gray-900">
+        <main className="relative isolate">
+        {/* Background */}
+        <div
+          className="absolute inset-x-0 top-4 -z-10 flex transform-gpu justify-center overflow-hidden blur-3xl"
+          aria-hidden="true"
+        >
+          <div
+            className="aspect-[1108/632] w-[69.25rem] flex-none bg-gradient-to-r from-[#80caff] to-[#4f46e5] opacity-25"
+            style={{
+              clipPath:
+                'polygon(73.6% 51.7%, 91.7% 11.8%, 100% 46.4%, 97.4% 82.2%, 92.5% 84.9%, 75.7% 64%, 55.3% 47.5%, 46.5% 49.4%, 45% 62.9%, 50.3% 87.2%, 21.3% 64.1%, 0.1% 100%, 5.4% 51.1%, 21.4% 63.9%, 58.9% 0.2%, 73.6% 51.7%)',
+            }}
+          />
+        </div>
+      </main>
       <div className="mx-auto max-w-7xl">
         <div className="bg-gray-900 py-10">
           <div className="px-4 sm:px-6 lg:px-8">
             <div className="sm:flex sm:items-center">
               <div className="sm:flex-auto">
-                <h1 className="text-base font-semibold leading-6 text-white">Users</h1>
+                <h1 className="text-base font-semibold leading-6 text-white">List of Nepali Application</h1>
                 <p className="mt-2 text-sm text-gray-300">
-                  A list of all the users in your account including their name, title, email and role.
+                  An open source directory for all applications in Nepal
                 </p>
-              </div>
-              <div className="mt-4 sm:ml-16 sm:mt-0 sm:flex-none">
-               <SearchInput />
               </div>
             </div>
             <div className="mt-8 flow-root">
@@ -32,33 +45,21 @@ export default function CompanyTable() {
                           Name
                         </th>
                         <th scope="col" className="px-3 py-3.5 text-left text-sm font-semibold text-white">
-                          Title
+                          Company
                         </th>
                         <th scope="col" className="px-3 py-3.5 text-left text-sm font-semibold text-white">
-                          Email
-                        </th>
-                        <th scope="col" className="px-3 py-3.5 text-left text-sm font-semibold text-white">
-                          Role
-                        </th>
-                        <th scope="col" className="relative py-3.5 pl-3 pr-4 sm:pr-0">
-                          <span className="sr-only">Edit</span>
+                          Category
                         </th>
                       </tr>
                     </thead>
                     <tbody className="divide-y divide-gray-800">
-                      {people.map((person) => (
-                        <tr key={person.email}>
+                      {apps.map((app) => (
+                        <tr key={app.name}>
                           <td className="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-white sm:pl-0">
-                            {person.name}
+                            {app.name}
                           </td>
-                          <td className="whitespace-nowrap px-3 py-4 text-sm text-gray-300">{person.title}</td>
-                          <td className="whitespace-nowrap px-3 py-4 text-sm text-gray-300">{person.email}</td>
-                          <td className="whitespace-nowrap px-3 py-4 text-sm text-gray-300">{person.role}</td>
-                          <td className="relative whitespace-nowrap py-4 pl-3 pr-4 text-right text-sm font-medium sm:pr-0">
-                            <a href="#" className="text-indigo-400 hover:text-indigo-300">
-                              Edit<span className="sr-only">, {person.name}</span>
-                            </a>
-                          </td>
+                          <td className="whitespace-nowrap px-3 py-4 text-sm text-gray-300">{app.company}</td>
+                          <td className="whitespace-nowrap px-3 py-4 text-sm text-gray-300">{app.category}</td>
                         </tr>
                       ))}
                     </tbody>
